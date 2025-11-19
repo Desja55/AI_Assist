@@ -2,7 +2,7 @@
 
 Ссылка на проект: https://t.me/NarodnyeOkna77_bot 
 
-https://github.com/Desja55/AI_Assist/blob/main/123.png
+![Иллюстрация к проекту](https://github.com/Desja55/AI_Assist/blob/main/123.png?raw=true)
 
 
 ## Описание проекта
